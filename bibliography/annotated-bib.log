@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.5.13)  14 MAY 2025 20:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.5.13)  14 MAY 2025 20:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**bibliography.tex
-(./bibliography.tex
+**annotated-bib.tex
+(./annotated-bib.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-16>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -417,14 +417,19 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count409
+\cp@tempcnt=\count410
+)
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count409
-\csq@gtype=\count410
-\csq@glevel=\count411
-\csq@qlevel=\count412
-\csq@maxlvl=\count413
-\csq@tshold=\count414
+\csq@reset=\count411
+\csq@gtype=\count412
+\csq@glevel=\count413
+\csq@qlevel=\count414
+\csq@maxlvl=\count415
+\csq@tshold=\count416
 \csq@ltx@everypar=\toks24
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
@@ -443,23 +448,23 @@ Package csquotes Info: ... none found.
 LaTeX Warning: Unused global option(s):
     [14pt].
 
-(./bibliography.aux)
-\openout1 = `bibliography.aux'.
+(./annotated-bib.aux)
+\openout1 = `annotated-bib.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
 
@@ -490,37 +495,50 @@ File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `bibliography.bcf'.
+\openout3 = `annotated-bib.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'bibliography.bbl' found.
+Package biblatex Info: ... file 'annotated-bib.bbl' found.
 
-(./bibliography.bbl)
-Package biblatex Info: Reference section=0 on input line 36.
-Package biblatex Info: Reference segment=0 on input line 36.
+(./annotated-bib.bbl)
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./bibliography.aux)
-Package logreq Info: Writing requests to 'bibliography.run.xml'.
-\openout1 = `bibliography.run.xml'.
+[2
+
+] [3
+
+] [4
+
+] [5
+
+] [6
+
+] (./annotated-bib.aux)
+Package logreq Info: Writing requests to 'annotated-bib.run.xml'.
+\openout1 = `annotated-bib.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10726 strings out of 478008
- 208123 string characters out of 5839802
+ 10816 strings out of 478008
+ 209683 string characters out of 5839802
  1855330 words of memory out of 5000000
- 30797 multiletter control sequences out of 15000+600000
- 513692 words of font info for 37 fonts, out of 8000000 for 9000
+ 30872 multiletter control sequences out of 15000+600000
+ 517736 words of font info for 51 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 63i,5n,68p,1468b,5044s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+ 63i,6n,68p,1469b,5044s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/user/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600p
+k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on bibliography.pdf (1 page, 49688 bytes).
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on annotated-bib.pdf (6 pages, 81150 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
