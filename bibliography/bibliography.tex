@@ -1,0 +1,42 @@
+\documentclass[14pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+
+% - default packages
+\usepackage[backend=biber, style=apa]{biblatex}
+\usepackage[doublespacing]{setspace}
+\usepackage{indentfirst}
+\usepackage{parskip}
+\usepackage{amsmath}
+% \usepackage{changepage}
+% \usepackage[dvipsnames]{xcolor}
+
+% - set variables
+% - \setlength{\parindent}{8ex}
+% \definecolor{house-blue}{RGB}{0, 71, 187}
+
+
+
+% - bibliography packages
+% \usepackage[american]{babel}
+%	\addto{\captionsenglish}{\renewcommand{\bibname}{Works that Inspired this Essay}}
+% \usepackage{hyperref}
+ \usepackage{csquotes}
+
+% - import bib file
+\addbibresource{../bibliography.bib}
+
+% - commands
+
+% - title
+
+\title{ \vspace*{-72pt} Topic Brainstorm }
+\author{Crystal Mandal}
+\date{}
+
+\begin{document}
+
+\nocite{*}
+
+\printbibliography
+
+\end{document} 
