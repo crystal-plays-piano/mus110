@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.5.13)  14 MAY 2025 20:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.5.13)  15 MAY 2025 13:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -28,6 +28,47 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-chicago/biblatex-chicago.sty
+Package: biblatex-chicago 2022/07/02 v 3.18 biblatex style
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count194
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count195
+\decimalpart=\count196
+)
+Package: xstring 2023/01/14 v1.85 String manipulations (CT)
+)
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 
@@ -35,36 +76,16 @@ Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count193
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-)
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count194
+\lrq@indent=\count197
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -76,49 +97,49 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count195
-\c@listtotal=\count196
-\c@listcount=\count197
-\c@liststart=\count198
-\c@liststop=\count199
-\c@citecount=\count266
-\c@citetotal=\count267
-\c@multicitecount=\count268
-\c@multicitetotal=\count269
-\c@instcount=\count270
-\c@maxnames=\count271
-\c@minnames=\count272
-\c@maxitems=\count273
-\c@minitems=\count274
-\c@citecounter=\count275
-\c@maxcitecounter=\count276
-\c@savedcitecounter=\count277
-\c@uniquelist=\count278
-\c@uniquename=\count279
-\c@refsection=\count280
-\c@refsegment=\count281
-\c@maxextratitle=\count282
-\c@maxextratitleyear=\count283
-\c@maxextraname=\count284
-\c@maxextradate=\count285
-\c@maxextraalpha=\count286
-\c@abbrvpenalty=\count287
-\c@highnamepenalty=\count288
-\c@lownamepenalty=\count289
-\c@maxparens=\count290
-\c@parenlevel=\count291
-\blx@tempcnta=\count292
-\blx@tempcntb=\count293
-\blx@tempcntc=\count294
-\c@blx@maxsection=\count295
-\blx@maxsegment@0=\count296
-\blx@notetype=\count297
-\blx@parenlevel@text=\count298
-\blx@parenlevel@foot=\count299
-\blx@sectionciteorder@0=\count300
-\blx@sectionciteorderinternal@0=\count301
-\blx@entrysetcounter=\count302
-\blx@biblioinstance=\count303
+\c@tabx@nest=\count198
+\c@listtotal=\count199
+\c@listcount=\count266
+\c@liststart=\count267
+\c@liststop=\count268
+\c@citecount=\count269
+\c@citetotal=\count270
+\c@multicitecount=\count271
+\c@multicitetotal=\count272
+\c@instcount=\count273
+\c@maxnames=\count274
+\c@minnames=\count275
+\c@maxitems=\count276
+\c@minitems=\count277
+\c@citecounter=\count278
+\c@maxcitecounter=\count279
+\c@savedcitecounter=\count280
+\c@uniquelist=\count281
+\c@uniquename=\count282
+\c@refsection=\count283
+\c@refsegment=\count284
+\c@maxextratitle=\count285
+\c@maxextratitleyear=\count286
+\c@maxextraname=\count287
+\c@maxextradate=\count288
+\c@maxextraalpha=\count289
+\c@abbrvpenalty=\count290
+\c@highnamepenalty=\count291
+\c@lownamepenalty=\count292
+\c@maxparens=\count293
+\c@parenlevel=\count294
+\blx@tempcnta=\count295
+\blx@tempcntb=\count296
+\blx@tempcntc=\count297
+\c@blx@maxsection=\count298
+\blx@maxsegment@0=\count299
+\blx@notetype=\count300
+\blx@parenlevel@text=\count301
+\blx@parenlevel@foot=\count302
+\blx@sectionciteorder@0=\count303
+\blx@sectionciteorderinternal@0=\count304
+\blx@entrysetcounter=\count305
+\blx@biblioinstance=\count306
 \labelnumberwidth=\skip50
 \labelalphawidth=\skip51
 \biblabelsep=\skip52
@@ -130,9 +151,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language5
-\c@mincomprange=\count304
-\c@maxcomprange=\count305
-\c@mincompwidth=\count306
+\c@mincomprange=\count307
+\c@maxcomprange=\count308
+\c@mincompwidth=\count309
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -140,91 +161,77 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'apa.dbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.dbx
-File: apa.dbx 2022/06/22 v9.16 APA biblatex style data model
-)
+Package biblatex Info: ... file 'chicago-notes.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count307
-\c@savedafterword=\count308
-\c@annotator=\count309
-\c@savedannotator=\count310
-\c@author=\count311
-\c@savedauthor=\count312
-\c@bookauthor=\count313
-\c@savedbookauthor=\count314
-\c@commentator=\count315
-\c@savedcommentator=\count316
-\c@editor=\count317
-\c@savededitor=\count318
-\c@editora=\count319
-\c@savededitora=\count320
-\c@editorb=\count321
-\c@savededitorb=\count322
-\c@editorc=\count323
-\c@savededitorc=\count324
-\c@foreword=\count325
-\c@savedforeword=\count326
-\c@holder=\count327
-\c@savedholder=\count328
-\c@introduction=\count329
-\c@savedintroduction=\count330
-\c@namea=\count331
-\c@savednamea=\count332
-\c@nameb=\count333
-\c@savednameb=\count334
-\c@namec=\count335
-\c@savednamec=\count336
-\c@translator=\count337
-\c@savedtranslator=\count338
-\c@shortauthor=\count339
-\c@savedshortauthor=\count340
-\c@shorteditor=\count341
-\c@savedshorteditor=\count342
-\c@narrator=\count343
-\c@savednarrator=\count344
-\c@execproducer=\count345
-\c@savedexecproducer=\count346
-\c@execdirector=\count347
-\c@savedexecdirector=\count348
-\c@with=\count349
-\c@savedwith=\count350
-\c@labelname=\count351
-\c@savedlabelname=\count352
-\c@institution=\count353
-\c@savedinstitution=\count354
-\c@lista=\count355
-\c@savedlista=\count356
-\c@listb=\count357
-\c@savedlistb=\count358
-\c@listc=\count359
-\c@savedlistc=\count360
-\c@listd=\count361
-\c@savedlistd=\count362
-\c@liste=\count363
-\c@savedliste=\count364
-\c@listf=\count365
-\c@savedlistf=\count366
-\c@location=\count367
-\c@savedlocation=\count368
-\c@organization=\count369
-\c@savedorganization=\count370
-\c@origlocation=\count371
-\c@savedoriglocation=\count372
-\c@origpublisher=\count373
-\c@savedorigpublisher=\count374
-\c@publisher=\count375
-\c@savedpublisher=\count376
-\c@language=\count377
-\c@savedlanguage=\count378
-\c@origlanguage=\count379
-\c@savedoriglanguage=\count380
-\c@citation=\count381
-\c@savedcitation=\count382
-\c@pageref=\count383
-\c@savedpageref=\count384
+\c@afterword=\count310
+\c@savedafterword=\count311
+\c@annotator=\count312
+\c@savedannotator=\count313
+\c@author=\count314
+\c@savedauthor=\count315
+\c@bookauthor=\count316
+\c@savedbookauthor=\count317
+\c@commentator=\count318
+\c@savedcommentator=\count319
+\c@editor=\count320
+\c@savededitor=\count321
+\c@editora=\count322
+\c@savededitora=\count323
+\c@editorb=\count324
+\c@savededitorb=\count325
+\c@editorc=\count326
+\c@savededitorc=\count327
+\c@foreword=\count328
+\c@savedforeword=\count329
+\c@holder=\count330
+\c@savedholder=\count331
+\c@introduction=\count332
+\c@savedintroduction=\count333
+\c@namea=\count334
+\c@savednamea=\count335
+\c@nameb=\count336
+\c@savednameb=\count337
+\c@namec=\count338
+\c@savednamec=\count339
+\c@translator=\count340
+\c@savedtranslator=\count341
+\c@shortauthor=\count342
+\c@savedshortauthor=\count343
+\c@shorteditor=\count344
+\c@savedshorteditor=\count345
+\c@labelname=\count346
+\c@savedlabelname=\count347
+\c@institution=\count348
+\c@savedinstitution=\count349
+\c@lista=\count350
+\c@savedlista=\count351
+\c@listb=\count352
+\c@savedlistb=\count353
+\c@listc=\count354
+\c@savedlistc=\count355
+\c@listd=\count356
+\c@savedlistd=\count357
+\c@liste=\count358
+\c@savedliste=\count359
+\c@listf=\count360
+\c@savedlistf=\count361
+\c@location=\count362
+\c@savedlocation=\count363
+\c@organization=\count364
+\c@savedorganization=\count365
+\c@origlocation=\count366
+\c@savedoriglocation=\count367
+\c@origpublisher=\count368
+\c@savedorigpublisher=\count369
+\c@publisher=\count370
+\c@savedpublisher=\count371
+\c@language=\count372
+\c@savedlanguage=\count373
+\c@origlanguage=\count374
+\c@savedoriglanguage=\count375
+\c@pageref=\count376
+\c@savedpageref=\count377
 \shorthandwidth=\skip58
 \shortjournalwidth=\skip59
 \shortserieswidth=\skip60
@@ -250,66 +257,54 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
-\c@textcitecount=\count385
-\c@textcitetotal=\count386
-\c@textcitemaxnames=\count387
-\c@biburlbigbreakpenalty=\count388
-\c@biburlbreakpenalty=\count389
-\c@biburlnumpenalty=\count390
-\c@biburlucpenalty=\count391
-\c@biburllcpenalty=\count392
+\c@textcitecount=\count378
+\c@textcitetotal=\count379
+\c@textcitemaxnames=\count380
+\c@biburlbigbreakpenalty=\count381
+\c@biburlbreakpenalty=\count382
+\c@biburlnumpenalty=\count383
+\c@biburlucpenalty=\count384
+\c@biburllcpenalty=\count385
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count393
+\c@smartand=\count386
 )
-Package biblatex Info: Trying to load bibliography style 'apa'...
-Package biblatex Info: ... file 'apa.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'chicago-notes'...
+Package biblatex Info: ... file 'chicago-notes.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
-File: apa.bbx 2022/06/22 v9.16 APA biblatex references style
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count394
-\c@bbx:relatedtotal=\count395
-)
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
-ed, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
-efined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
-ined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
- defined, overwriting.
-)
-Package biblatex Info: Trying to load citation style 'apa'...
-Package biblatex Info: ... file 'apa.cbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/apa.cbx
-File: apa.cbx 2022/06/22 v9.16 APA biblatex citation style
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
- overwriting.
-Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-chicago/chicago-notes.bbx
+File: chicago-notes.bbx 2022/11/17 v 3.18b biblatex bibliography style
+\lositemsep=\skip72
+Package biblatex Info: Delimiter 'revsdnamedelim' in context '' already defined
 , overwriting.
-Package biblatex Info: Redefining '\fullcite'.
-Package biblatex Info: Redefining '\citeauthor'.
-Package biblatex Info: Redefining '\citeyear'.
+\cms@tempcnta=\count387
+\cms@tempcntb=\count388
+\c@bbx:relatedcount=\count389
+\c@bbx:relatedtotal=\count390
+\c@cms@reviewcount=\count391
+\c@cms@currentnote=\count392
+)
+Package biblatex Info: Trying to load citation style 'chicago-notes'...
+Package biblatex Info: ... file 'chicago-notes.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-chicago/chicago-notes.cbx
+File: chicago-notes.cbx 2022/11/17 v 3.18b biblatex citation style
 Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcites'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\footcitetexts'.
 Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\footfullcite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeincitef'.
+Package biblatex Info: Redefining '\citeauthor'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
+\c@cms@punct=\count393
+Package biblatex Info: Delimiter 'dateeradelim' in context '' already defined, 
+overwriting.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -325,7 +320,7 @@ Package: expl3 2023-01-16 L3 programming layer (loader)
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count396
+\l__color_backend_stack_int=\count394
 \l__pdf_internal_box=\box51
 ))
 Package biblatex Info: ... and expl3
@@ -339,7 +334,7 @@ Package: xparse 2023-01-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
 
-))
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
@@ -351,7 +346,7 @@ Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip72
+\@mathmargin=\skip73
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -369,14 +364,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count397
+\inf@bad=\count395
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count398
-\leftroot@=\count399
+\uproot@=\count396
+\leftroot@=\count397
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count400
-\DOTSCASE@=\count401
+\classnum@=\count398
+\DOTSCASE@=\count399
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -389,20 +384,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen143
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count402
+\macc@depth=\count400
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count403
+\c@MaxMatrixCols=\count401
 \dotsspace@=\muskip21
-\c@parentequation=\count404
-\dspbrk@lvl=\count405
+\c@parentequation=\count402
+\dspbrk@lvl=\count403
 \tag@help=\toks20
-\row@=\count406
-\column@=\count407
-\maxfields@=\count408
+\row@=\count404
+\column@=\count405
+\maxfields@=\count406
 \andhelp@=\toks21
 \eqnshift@=\dimen144
 \alignsep@=\dimen145
@@ -411,25 +406,25 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen148
 \lineht@=\dimen149
 \@envbody=\toks22
-\multlinegap=\skip73
-\multlinetaggap=\skip74
+\multlinegap=\skip74
+\multlinetaggap=\skip75
 \mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count409
-\cp@tempcnt=\count410
+\c@cp@cntr=\count407
+\cp@tempcnt=\count408
 )
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count411
-\csq@gtype=\count412
-\csq@glevel=\count413
-\csq@qlevel=\count414
-\csq@maxlvl=\count415
-\csq@tshold=\count416
+\csq@reset=\count409
+\csq@gtype=\count410
+\csq@glevel=\count411
+\csq@qlevel=\count412
+\csq@maxlvl=\count413
+\csq@tshold=\count414
 \csq@ltx@everypar=\toks24
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
@@ -465,22 +460,11 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
-Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
-Package biblatex Info: ... file 'english-apa.lbx' found.
+Package biblatex Info: Trying to load language 'english' -> 'cms-american'...
+Package biblatex Info: ... file 'cms-american.lbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
-File: english-apa.lbx 2022/06/22 v9.16 APA biblatex localisation
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
-Package biblatex Info: ... file 'american-apa.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
-File: american-apa.lbx 2022/06/22 v9.16 APA biblatex localisation
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex-chicago/cms-american.lbx
+File: cms-american.lbx 2022/07/02 v 3.18 biblatex localization
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
 
@@ -491,7 +475,13 @@ Package biblatex Info: ... file 'english.lbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
-))))
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -522,23 +512,24 @@ Package logreq Info: Writing requests to 'annotated-bib.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10816 strings out of 478008
- 209683 string characters out of 5839802
- 1855330 words of memory out of 5000000
- 30872 multiletter control sequences out of 15000+600000
- 517736 words of font info for 51 fonts, out of 8000000 for 9000
+ 12895 strings out of 478008
+ 255148 string characters out of 5839802
+ 1854330 words of memory out of 5000000
+ 32938 multiletter control sequences out of 15000+600000
+ 518037 words of font info for 52 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 63i,6n,68p,1469b,5044s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,6n,90p,1464b,3950s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/user/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600p
 k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on annotated-bib.pdf (6 pages, 81150 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on annotated-bib.pdf (6 pages, 87705 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 58 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

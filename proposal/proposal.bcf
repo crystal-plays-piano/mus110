@@ -3521,6 +3521,11 @@
     <bcf:citekey order="3" intorder="1">prisoners-voices</bcf:citekey>
     <bcf:citekey order="4" intorder="1">coming-together</bcf:citekey>
     <bcf:citekey order="5" intorder="1">attica-poems</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">life-of-paper</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">coming-together</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">letters-from-attica</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">prisoners-voices</bcf:citekey>
+    <bcf:citekey order="10" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
